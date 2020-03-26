@@ -1,0 +1,19 @@
+.Navbar {
+    width: 100%;
+    padding: 0.5rem 0;
+    background-color: #9e8c7d;
+    background: url('../imagenes//stars.svg'), #9e8c7d;
+  }
+  
+  .Navbar__brand {
+    color: #ffffff;
+    display: flex;
+    align-items: center;
+  }
+  
+  .Navbar__brand:hover {
+    color: #ffffff;
+    text-decoration: none;
+  }
+  
+ 
