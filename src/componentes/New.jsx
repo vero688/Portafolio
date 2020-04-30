@@ -4,32 +4,27 @@ import Skills from '../componentes/Skills';
 import Home from '../componentes/Home';
 import Proyec from './Proyect';
 
-class BadgeNew extends React.Component{
+class New extends React.Component{
   render() {
     return (
       <div>
         <div className="BadgeNew__hero">
         </div>
-        <div className="container">
-          <div className="row">
-            <div className="col-6">
+        <div>
               <Home
               />
             </div>
-
-            <div className="col-6">
+            <div>
               <Skills
               />
             </div>
-            <div className="col-6">
+            <div className="container">
               <Proyec
               />
-            </div>
-          </div>
-        </div>
+              </div>
         </div>
     );
   }
 }
 
-export default BadgeNew;
+export default New;

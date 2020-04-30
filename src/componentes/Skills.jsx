@@ -14,47 +14,42 @@ export function Skills(){
                   className="imgSkills">
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/js.jpeg")}
+                      src={require("../icons/javascript.svg")}
                       className="ico-js"/>
                     </div>
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/css.jpeg")}
+                      src={require("../icons/css3.svg")}
                       className="ico-css"/>
                     </div>
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/bostrap.jpeg")}
+                      src={require("../icons/bootstrap-4.svg")}
                       className="ico-boost"/>
                     </div>
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/firebase.jpeg")}
+                      src={require("../icons/firebase-1.svg")}
                       className="ico-fire"/>
                     </div>
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/git.jpeg")}
+                      src={require("../icons/git-icon.svg")}
                       className="ico-git"/>
                     </div>
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/github.jpeg")}
+                      src={require("../icons/github-1.svg")}
                       className="ico-github"/>
                     </div>
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/html.jpeg")}
+                      src={require("../icons/html-5.svg")}
                       className="ico-html"/>
                     </div>
                     <div className="img-Skills">
                       <img
-                      src={require("../icons/Lin.jpeg")}
-                      className="ico-lin"/>
-                    </div>
-                    <div className="img-Skills">
-                      <img
-                      src={require("../icons/react.jpeg")}
+                      src={require("../icons/react.svg")}
                       className="ico-react"/>
                     </div>
 

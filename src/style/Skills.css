@@ -4,15 +4,15 @@
   }
   
 h2{
- 
-    font-family: 'Anton', sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    font-style: italic;
 }
 
 
 .containerSki{
     display: flex;
     flex-direction: row;  
-    height: 50vh; 
     flex-wrap: wrap;  
     justify-content: center;
 }
@@ -21,12 +21,11 @@ h2{
     background: rgba(64, 66, 65, 0.342);
     padding: 0%;
     margin: 0%;
-    color: white;
+    color: rgb(7, 6, 6);
     display: flex;
     flex-direction: column;
     align-items: center;
     width: 95%;
-    height: 387px;
     border-radius: 8px 8px 8px 8px;
     overflow: hidden;
 }

@@ -3,15 +3,12 @@ import '../style/Home.css';
 import Fot from '../imagenes/yo.jpeg'
 
 
-class Badges extends React.Component{
+class Home extends React.Component{
    render() {
    return (
        <div className="Badge">
        <div className="Badge__header">
-        
-       </div>
-
-       <div className="Badge__section-name">
+       <div className="section-name">
          <img
            className="Badge__avatar"
            src={Fot}
@@ -21,10 +18,14 @@ class Badges extends React.Component{
        Veronica Urrutia
          </h1>
        </div>
-
-       <div className="Badge__section-info">
+       </div>
+       <div className="container">
     <p>
-    Soy una persona responsable,
+    Actualmente me he interiorizado en el mundo de la Informática,
+    apasionada por el aprendizaje,
+     nuevas tecnologías y la innovación.
+      Profesional con gran capacidad para emprender proyectos, 
+      autodidacta. Principalmente en Javascript, CSS3, HTML5 y  React. 
      dispuesta a aprender de las nuevas experiencias y amante de los desafíos, 
      mi objetivo es ser un aporte para el equipo.
       Desde el desarrollo web pude potenciar mi creatividad y lógica.
@@ -37,4 +38,4 @@ class Badges extends React.Component{
    );
  }
 }
-export default Badges; 
+export default Home; 

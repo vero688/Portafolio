@@ -1,22 +1,23 @@
 import React from 'react';
 import '../style/Proyecto.css';
 
-class Proyec extends React.Component{
-    render(){
+function Proyec() {
         return(
 <div className=" container">
-    <div >
+    <div className="Proyect" >
         <h1>
-            Poyectos
+           Mis Proyectos
         </h1>
     </div>
-    <div>
+    <div className="Box-Proyect">
+{/* <a  href={}>
 
+</a> */}
     </div>
     
 </div>
         );
-    }
+    
 }
 
 export default Proyec;
