@@ -1,9 +1,6 @@
 .BadgeNew__hero {
     width: 100%;
     padding: 2rem 0;
-    background:transparent;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10);
-    background-repeat: repeat;
     margin-bottom: 1rem;
     color: #ffffff;
   }

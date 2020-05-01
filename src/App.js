@@ -1,22 +1,22 @@
 import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
-
 import Home from './componentes/Home';
 import Proyect from './componentes/Proyect';
-import New from './componentes/New';
+import Skills from './componentes/Skills';
 
+import {   BrowserRouter as Router,
+  Route
+} from "react-router-dom";
 
 function App() {
   return (
-    <BrowserRouter>
-    
-        <Switch>
+    <Router>
+  
           <Route exact path="/" component={Home} />
-          <Route  path="/badges" component={Proyect} />
-          <Route  path="/badges/new" component={New} />
-        </Switch>
+          <Route  path="/Skills" component={Skills} />
+          <Route  path="/Proyect" component={Proyect} />
+   
     
-    </BrowserRouter>
+    </Router>
   );
 }
 

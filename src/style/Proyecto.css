@@ -1,0 +1,9 @@
+.Box-Proyect{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+  
+    border-radius: 8px 8px 8px 8px;
+}
+
