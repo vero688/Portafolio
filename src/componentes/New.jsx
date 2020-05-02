@@ -4,6 +4,7 @@ import Skills from '../componentes/Skills';
 import Home from '../componentes/Home';
 import Proyec from './Proyect';
 import Navbar from './Navbar';
+import Contacto from './Contacto';
 
 class New extends React.Component{
   render() {
@@ -23,6 +24,10 @@ class New extends React.Component{
             <div className="container">
               <Proyec
               />
+              </div>
+              <div className="container">
+              <Contacto/>
+              
               </div>
         </div>
     );

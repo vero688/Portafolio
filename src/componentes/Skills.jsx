@@ -6,10 +6,10 @@ export function Skills(){
                 return (
                   <div>
             
-              <div className="containerSki">
+              <div className="containerSki" id="section2" >
                 <div
-                className="Skills">
-                    <h2> Skills</h2>
+                className="Skills" >
+                    <h1 > Skills</h1>
                   <div
                   className="imgSkills">
                     <div className="img-Skills">
