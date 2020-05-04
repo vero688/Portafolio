@@ -50,7 +50,7 @@ a.btn.btn-darkgoldenrod {
     line-height: 1.5;
     border-radius: 0.25rem;
 }
-  .event {
+  .card {
     font-style: 'Roboto', sans-serif;
     overflow: hidden;
     background-size: cover;
@@ -65,6 +65,9 @@ a.btn.btn-darkgoldenrod {
     align-items: center;
     margin: 5% 0%;
     flex-direction: column;
+    display: grid;
+    margin: 8% 0% 0% 0%;
+    justify-self: end;
   }
   p {
     font-style: 'Montserrat', sans-serif;
