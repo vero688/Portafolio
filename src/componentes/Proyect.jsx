@@ -10,26 +10,26 @@ function Proyec() {
        
         </div>
         <div className="row p-0 col col-md-7  justify-content-around">
-          <div id='esports' className="event">
+          <div  className="card">
             <div class="event-title">Pet Place</div>
             <p>Es una App mobile diseñada 
     para mostrar la ubicacion de lugares
       Pet Friendly por medio de mapas de Here </p>
-      <a href="https://github.com/vero688/SCL012-here-app" className="btn btn-darkgoldenrod">Ghithub</a>
+      <a href="https://github.com/vero688/SCL012-here-app"  className="btn btn-darkgoldenrod">Ghithub</a>
           </div>
-          <div id='halloween' className="event ">
+          <div  className="card ">
             <div className="event-title">Burger Queen</div>
             <p>Pensada principalmente para solucionar fluida y eficiente
-la toma de pedidos y la llegada de pedidos a la cocina sin papeles de por medio.  </p>
+la toma de pedidos y la llegada de pedidos a la cocina sin papeles.  </p>
       <a href="https://github.com/vero688/burger-queen.github.io" className="btn btn-darkgoldenrod">Ghithub</a>
           </div>
-          <div id='springfest' className="event">
+        
+          <div className="card">
             <div className="event-title">Sparrow</div>
             <p>Esta aplicación esta enfocada en afisionados de los juegos de mesa.
               Compartiendo experiencias con cada juego de mesa. </p>
       <a href="https://github.com/vero688/SCL012-Social-Network" className="btn btn-darkgoldenrod">Ghithub</a>
           </div>
-         
         </div>
       </section>
       </div>
