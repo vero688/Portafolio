@@ -1,0 +1,15 @@
+.init {
+    background: url("../imagenes/fondo.jpg") no-repeat center right;
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+}
+
+.middle {
+    transition: .5s ease;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
