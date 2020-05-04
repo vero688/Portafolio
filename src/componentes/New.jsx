@@ -3,14 +3,14 @@ import '../style/New.css';
 import Skills from '../componentes/Skills';
 import Home from '../componentes/Home';
 import Proyec from './Proyect';
-import Navbar from './Navbar';
+import Init from './Init';
 import Contacto from './Contacto';
 
 class New extends React.Component{
   render() {
     return (
       <div>
-         <Navbar/>
+         <Init/>
         <div className="BadgeNew__hero">
         </div>
         <div>
@@ -21,11 +21,11 @@ class New extends React.Component{
               <Skills
               />
             </div>
-            <div className="container">
+            <div >
               <Proyec
               />
               </div>
-              <div className="container">
+              <div>
               <Contacto/>
               
               </div>
