@@ -13,10 +13,7 @@ class New extends React.Component{
          <Init/>
         <div className="BadgeNew__hero">
         </div>
-        <div>
-              <Home
-              />
-            </div>
+       
             <div>
               <Skills
               />
