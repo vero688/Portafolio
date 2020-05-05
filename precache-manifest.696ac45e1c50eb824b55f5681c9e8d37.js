@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d17f80048826c1baede4165dd109e091",
+    "revision": "4740e6c17f1d2cb050e3817e6bd65dd2",
     "url": "/Portafolio/index.html"
   },
   {
-    "revision": "35932c9f4cf6cd86e352",
+    "revision": "f6206c7fffe2c0104648",
     "url": "/Portafolio/static/css/2.67123b20.chunk.css"
   },
   {
-    "revision": "d2431c3c5950e58ebb74",
-    "url": "/Portafolio/static/css/main.264565c4.chunk.css"
+    "revision": "c17eccc903b0e6b2b2f0",
+    "url": "/Portafolio/static/css/main.8328c4c0.chunk.css"
   },
   {
-    "revision": "35932c9f4cf6cd86e352",
-    "url": "/Portafolio/static/js/2.d933dfce.chunk.js"
+    "revision": "f6206c7fffe2c0104648",
+    "url": "/Portafolio/static/js/2.7f24f01b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/Portafolio/static/js/2.d933dfce.chunk.js.LICENSE.txt"
+    "url": "/Portafolio/static/js/2.7f24f01b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2431c3c5950e58ebb74",
-    "url": "/Portafolio/static/js/main.850bf6e6.chunk.js"
+    "revision": "c17eccc903b0e6b2b2f0",
+    "url": "/Portafolio/static/js/main.e9ad3094.chunk.js"
   },
   {
     "revision": "fba241b40bd15cfd5948",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/media/gmail-icon.e67c6af8.svg"
   },
   {
+    "revision": "03da492f6724396cf44fd164aa7ec3f9",
+    "url": "/Portafolio/static/media/ham.03da492f.jpg"
+  },
+  {
     "revision": "676e8188f003ed5d4882a0d0f378dad3",
     "url": "/Portafolio/static/media/html-5.676e8188.svg"
   },
@@ -68,8 +72,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/media/linkedin-icon-2.4f2bc978.svg"
   },
   {
+    "revision": "9bb3cdd5331d7ef8d291a24e65540369",
+    "url": "/Portafolio/static/media/pet.9bb3cdd5.png"
+  },
+  {
     "revision": "4009eef3b3e291f296e71962c70895c5",
     "url": "/Portafolio/static/media/react.4009eef3.svg"
+  },
+  {
+    "revision": "f1ab8337ac262e79c421a83792201260",
+    "url": "/Portafolio/static/media/red social.f1ab8337.png"
   },
   {
     "revision": "3fb894d8d260e0c8a3b1beb10bab3bd2",
