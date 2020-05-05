@@ -3,9 +3,10 @@ import '../style/Proyecto.css';
 
 function Proyec() {
         return( 
-        <div>  <h1>Proyectos </h1>
+        <div >
+            <h1>Proyectos </h1>
         <br/>
-          <div className="container-card">
+          <div className="container-card" id="section3"   >
             <div class="content-img div1  container">
         <img src={require("../imagenes/pet.png")} alt="img"/>
   <div class="overlay">
@@ -35,7 +36,7 @@ function Proyec() {
   </div>
 
    <div class="content-img  div2 container">
-   <img src={require("../imagenes/ham.jpg")} alt="img"/>
+   <img src={require("../imagenes/burger.png")} alt="img"/>
 <div class="overlay">
  <div class="items "></div>
  <div class="items head">
@@ -62,7 +63,7 @@ function Proyec() {
 </div>
 
 <div class="content-img div3 container">
-<img src={require("../imagenes/pet.png")} alt="img"/>
+<img src={require("../imagenes/red social.png")} alt="img"/>
 <div class="overlay">
 <div class="items "></div>
 <div class="items head">

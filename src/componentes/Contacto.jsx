@@ -6,7 +6,7 @@ function Contacto() {
   return (
     
       <div className="container-Cont" id="section4">
-          <div>
+          <div className="container-h1">
               <h1>TRABAJEMOS JUNTOS</h1>
           </div>
           <div className="container-card">

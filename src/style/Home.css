@@ -48,7 +48,7 @@ img.Badge__avatar{
   align-items: center;
   color: #98CA3F;
   font-weight: bold;
-  font-style: italic;
+  font-style: 'Roboto', sans-serif;
 }
 .Texto{
   margin-top: 286px;

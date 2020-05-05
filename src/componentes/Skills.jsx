@@ -19,6 +19,11 @@ export function Skills(){
                     </div>
                     <div className="img-Skills">
                       <img
+                      src={require("../icons/html-5.svg")}
+                      className="ico-html"/>
+                    </div>
+                    <div className="img-Skills">
+                      <img
                       src={require("../icons/css3.svg")}
                       className="ico-css"/>
                     </div>
@@ -27,6 +32,12 @@ export function Skills(){
                       src={require("../icons/bootstrap-4.svg")}
                       className="ico-boost"/>
                     </div>
+                    <div className="img-Skills">
+                      <img
+                      src={require("../icons/react.svg")}
+                      className="ico-react"/>
+                    </div>
+                    
                     <div className="img-Skills">
                       <img
                       src={require("../icons/firebase-1.svg")}
@@ -42,16 +53,8 @@ export function Skills(){
                       src={require("../icons/github-1.svg")}
                       className="ico-github"/>
                     </div>
-                    <div className="img-Skills">
-                      <img
-                      src={require("../icons/html-5.svg")}
-                      className="ico-html"/>
-                    </div>
-                    <div className="img-Skills">
-                      <img
-                      src={require("../icons/react.svg")}
-                      className="ico-react"/>
-                    </div>
+                  
+                
 
                   </div>
 
