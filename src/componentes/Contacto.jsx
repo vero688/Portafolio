@@ -5,11 +5,12 @@ import '../style/Contacto.css';
 function Contacto() {
   return (
     
-      <div className="container-Cont">
+      <div className="container-Cont" id="section4">
           <div>
               <h1>TRABAJEMOS JUNTOS</h1>
           </div>
- <div className="img-Contac"  id="section4">
+ <div className="img-Contac">
+   <div className="conatiner">
  <a  href="https://mail.google.com/mail/u/0/?tab=rm&ogbl" >
                       <img
                       src={require("../icons/gmail-icon.svg")}
@@ -32,6 +33,7 @@ function Contacto() {
                       className="ico-Link"
                      />
                       </a>
+                      </div>
                       </div>
                     </div>
   )
