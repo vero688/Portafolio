@@ -3,6 +3,7 @@
     background-size: cover;
     min-height: 100vh;
     display: flex;
+    background-attachment: fixed;
 }
 
 .middle {

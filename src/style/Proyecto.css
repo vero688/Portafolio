@@ -89,8 +89,6 @@ a.btn.btn-darkgoldenrod {
    
   }
   
- 
-  
   .event-title {
     color: rgb(7, 7, 7);
     z-index: 5;
@@ -99,7 +97,19 @@ a.btn.btn-darkgoldenrod {
     font-weight: 700;
     
   }
-  
+img{
+  vertical-align: middle;
+  border-radius: 15%;
+  transform: translateY(-50%);
+  transition: 0.5s;
+}
 
-  
- 
+  img.imagen{
+    position: absolute;
+    top: 50%;
+    transform: translate(-101%, -50%) translateX(208px) scaleY(1.5);
+    z-index: 1000;
+    width: 100%;
+    height: 220px;
+    transition: 0.5s;
+  }
