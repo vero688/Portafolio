@@ -31,10 +31,15 @@ class Home extends React.Component{
       Desde el desarrollo web pude potenciar mi creatividad y lógica.
        </p>
        <a href="https://www.canva.com/design/DAD28dXok3I/ubxUd7Zq6hhEVGUnZjqktg/view?utm_content=DAD28dXok3I&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" 
-       className="btn btn-darkgoldenrod">Descarga mi CV</a>
+      className="btn btn-warning text-white">Descarga mi CV</a>
        </div>
 
-       <div className="Badge__footer"></div>
+       <div className="Badge__footer">
+       <li className="nav-item">
+      
+      </li>
+       </div>
+       
      </div>
    );
  }
