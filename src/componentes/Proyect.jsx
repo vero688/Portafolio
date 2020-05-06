@@ -3,16 +3,16 @@ import '../style/Proyecto.css';
 
 function Proyec() {
         return( 
-        <div >
+        <div className="container-fluid" >
             <h1>Proyectos </h1>
         <br/>
-          <div className="container-card" id="section3"   >
-            <div class="content-img div1  container">
-        <img src={require("../imagenes/pet.png")} alt="img"/>
+          <div className="container-card row" id="section3"   >
+            <div class=" col-12 col-lg-3 content-img div1  container">
+        <img src={require("../imagenes/verito-1.png")} alt="img"/>
   <div class="overlay">
       <div class="items "></div>
-      <div class="items head">
-        <p>Pet Place</p>
+      <div class="items head px-2">
+        <h3>Pet Place</h3>
         <br/>
         <p>Pet places es una App mobile diseñada para
            dar solución en el contexto de la movilidad e 
@@ -35,12 +35,12 @@ function Proyec() {
   </div>
   </div>
 
-   <div class="content-img  div2 container">
-   <img src={require("../imagenes/burger.png")} alt="img"/>
+   <div class=" col-12 col-lg-3 content-img  div2 container">
+   <img src={require("../imagenes/verito-3.png")} alt="img"/>
 <div class="overlay">
  <div class="items "></div>
- <div class="items head">
-   <p>Burger Queen</p>
+ <div class="items head px-2">
+   <h3>Burger Queen</h3>
    <p> La presente Aplicación fue pensada principalmente 
      para ser la solucion para meseros y chefs que integran un restaurante,
       con el propósito que puedan compartir la información de cada solicitud 
@@ -62,12 +62,12 @@ function Proyec() {
 </div>
 </div>
 
-<div class="content-img div3 container">
-<img src={require("../imagenes/red social.png")} alt="img"/>
+<div class=" col-12 col-lg-3 content-img div3 container">
+<img src={require("../imagenes/verito-2.png")} alt="img"/>
 <div class="overlay">
 <div class="items "></div>
-<div class="items head">
-<p>Red Social</p>
+<div class="items head px-2">
+<h3>Red Social</h3>
 <p>Sparrow Player es una Red Social sobre Juegos de mesa,
    donde podras compartir tus opiniones con otros jugadores y enterarte de próximos eventos. 
   Además los otros participantes podran dar puntuacion 

@@ -1,7 +1,7 @@
 import React from 'react';
 import '../style/New.css';
 import Skills from '../componentes/Skills';
-import Home from '../componentes/Home';
+
 import Proyec from './Proyect';
 import Init from './Init';
 import Contacto from './Contacto';
@@ -22,7 +22,10 @@ class New extends React.Component{
               <Proyec
               />
               </div>
+              <br/>
+              <br/>
               <div>
+              <br/>
               <Contacto/>
               
               </div>
