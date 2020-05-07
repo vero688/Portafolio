@@ -7,7 +7,7 @@ function Proyec() {
             <h1>Proyectos </h1>
         <br/>
           <div className="container-card row" id="section3">
-            <div class=" col-12 col-lg-3 content-img div1  container">
+            <div class=" col-12 col-lg-3-w-65 content-img div1  container">
         <img src={require("../imagenes/verito-1.png")} alt="img"/>
   <div class="overlay">
       <div class="items "></div>
@@ -35,7 +35,7 @@ function Proyec() {
   </div>
   </div>
 
-   <div class=" col-12 col-lg-3 content-img  div2 container">
+   <div class=" col-12 col-lg-3-w-65 content-img  div2 container">
    <img src={require("../imagenes/verito-3.png")} alt="img"/>
 <div class="overlay">
  <div class="items "></div>
@@ -62,7 +62,7 @@ function Proyec() {
 </div>
 </div>
 
-<div class=" col-12 col-lg-3 content-img div3 container">
+<div class=" col-12 col-lg-3-w-65 content-img div3 container">
 <img src={require("../imagenes/verito-2.png")} alt="img"/>
 <div class="overlay">
 <div class="items "></div>
