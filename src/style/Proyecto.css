@@ -6,7 +6,7 @@ grid-column-gap: 10px;
 grid-row-gap: 0px;
 }
 
- .overlay {
+.overlay {
     background: rgba(77, 77, 77, 0.9);
     color: #FEF5DF;
     opacity: 0;

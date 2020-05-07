@@ -11,11 +11,11 @@ class Navbar extends React.Component{
       <scroll>
       <ul className="nav ">
       <li className="nav-item">
-      <Link className="nav-link d-flex"   activeClass="active"    to="section"    spy={true}    smooth={true}    offset={-70}    duration= {500}> <img className="ico_M"
+      <Link className="nav-links d-flex"   activeClass="active"    to="section"    spy={true}    smooth={true}    offset={-70}    duration= {500}> <img className="ico_M"
       alt="Logo" src={require("../icons/v.jpg")}/></Link>
       </li>
       <li className="nav-item">
-      <Link className="nav-link"   activeClass="active"    to="section1"    spy={true}    smooth={true}    offset={-70}    duration= {500}>Sobre Mi</Link>
+      <Link className="nav-link"   activeClass="active"    to="section1"    spy={true}    smooth={true}    offset={-70}    duration= {500}>Sobre mi</Link>
       </li>
       <li className="nav-item">
       <Link className="nav-link"   activeClass="active"    to="section2"    spy={true}    smooth={true}    offset={-70}    duration= {500}>Skills</Link>

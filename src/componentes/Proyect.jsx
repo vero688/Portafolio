@@ -6,7 +6,7 @@ function Proyec() {
         <div className="container-fluid" >
             <h1>Proyectos </h1>
         <br/>
-          <div className="container-card row" id="section3"   >
+          <div className="container-card row" id="section3">
             <div class=" col-12 col-lg-3 content-img div1  container">
         <img src={require("../imagenes/verito-1.png")} alt="img"/>
   <div class="overlay">

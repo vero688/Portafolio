@@ -14,8 +14,10 @@ class Home extends React.Component{
            src={Fot}
            alt="Avatar"
          />
-         <h1>
+         <h1 className="text-center">
        Veronica Urrutia
+       <br/>
+      Fron end Developer 
          </h1>
        </div>
        </div>
